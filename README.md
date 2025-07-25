@@ -2,12 +2,6 @@
 
 You have been hired by Alpha Insurance to develop predictive models to determine which automobile claims are fraudulent. You have been given data on approximately 5000 auto claims which includes a variable indicating whether the company believes the claim is fraudulent or not.
 
-
-## Author: 
-* Robert Shea
-  
- Bryant University ~ Fall 2018
- 
  ## Hypothesis
  These variables appear to be the best for detecting fraudulent claims: 
  * Claim Amount - Uncommonly high claim amounts are more likely to be fraudulent.
